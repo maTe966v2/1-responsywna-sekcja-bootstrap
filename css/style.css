@@ -1,0 +1,13 @@
+.h1::after {
+    content: "";
+    display: block;
+    margin: 10px auto;
+    width: 60%;
+    height: 1px;
+    background-color: #eee;
+}
+
+.fa-brands {
+    width: 100px;
+    height: 100px;
+}
